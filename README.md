@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GilangBahana
+- 👋 Hi, I’m @gilangbahana
 - 👀 I’m interested in logic, data, and tech
 - 🌱 I’m currently learning SQL and python
 - 💞️ I occasionaly write at https://medium.com/@gilangbahana
